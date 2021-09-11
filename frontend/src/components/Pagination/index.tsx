@@ -1,4 +1,4 @@
-import { Agent } from "http"
+
 import { SalePage } from "types/sale"
 
 type Props = {
